@@ -1,0 +1,89 @@
+body {
+    background-color: black;
+	background-image: url(acrp.jpg);
+	background-repeat: no-repeat;
+	background-size: 2000px;
+}
+
+.welcome {
+    text-align: center;
+    color: black;
+}
+
+.wdesc {
+    text-align: center;
+    color: black;
+}
+
+.donate {
+	background-color:#44c767;
+	border-radius:28px;
+	border:1px solid #18ab29;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:17px;
+	padding:16px 31px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #2f6627;
+}
+.donate:hover {
+	background-color:#5cbf2a;
+}
+.donate:active {
+	position:relative;
+	top:1px;
+}
+
+.about {
+	background-color:#44c767;
+	border-radius:28px;
+	border:1px solid #18ab29;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:17px;
+	padding:16px 31px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #2f6627;
+}
+.about:hover {
+	background-color:#5cbf2a;
+}
+.about:active {
+	position:relative;
+	top:1px;
+}
+
+
+.ip {
+    color:  white;
+}
+
+.fb {
+	background-color:blue;
+	border-radius:28px;
+	border:1px solid #18ab29;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:17px;
+	padding:16px 31px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #2f6627;
+}
+
+.fb:hover {
+	background-color:#bf402a;
+}
+.fb:active {
+	position:relative;
+	top:1px;
+}
+
+.textabout {
+	color: darkblue;
+}
