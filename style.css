@@ -89,7 +89,7 @@ body {
 }
 
 .dc {
-	background-color:blue;
+	background-color:rgba(0, 0, 255, 0.979);
 	border-radius:28px;
 	border:1px solid #18ab29;
 	display:inline-block;
@@ -110,3 +110,24 @@ body {
 	top:1px;
 }
 
+.frm {
+	background-color: green;
+	border-radius:28px;
+	border:1px solid #18ab29;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:17px;
+	padding:16px 31px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #2f6627;
+}
+
+.frm:hover {
+	background-color: gold;
+}
+.frm:active {
+	position:relative;
+	top:1px;
+}
